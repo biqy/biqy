@@ -9,4 +9,4 @@ Quit, don't quit. Noodles, don't noodles.
 - **Tools:** VS Code, Git & GitHub
 
 ---
-*newbie mampus, newbie mentok*
+*newbie mampus, newbie mentok (gw)*
