@@ -2,11 +2,11 @@
 
 🎓 **Informatics Student**
 
-Currently figuring out code, logic, and campus life.
+Quit, don't quit. Noodles, don't noodles.
 
 ### 🛠️ Learning Stack
 - **Languages:** C++, Python
 - **Tools:** VS Code, Git & GitHub
 
 ---
-*Learning in public.*
+*newbie mampus, newbie mentok*
